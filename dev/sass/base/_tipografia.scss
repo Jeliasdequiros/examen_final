@@ -1,0 +1,17 @@
+//tipografia
+$font-family: 'Arial', 'Arial Black';
+
+// Tamaños 
+
+$font-size-base: 16px;
+
+$font-size-titulo: convertir(18);
+$font-size-logotipo: convertir(39.4286);
+
+
+.header{
+width:100%;
+font-size: $font-size-titulo; 
+background-color: $color-gris;
+}
+
